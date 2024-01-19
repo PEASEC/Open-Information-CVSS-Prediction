@@ -1,0 +1,4 @@
+assets
+predictor/output*
+predictor/results
+predictor/job_scripts
